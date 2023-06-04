@@ -1,0 +1,2 @@
+1. GraphQL api (use the web3 thing)
+2. find a postgis container for postgres
